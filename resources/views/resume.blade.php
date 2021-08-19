@@ -88,7 +88,7 @@
       </div>
     </section><!-- End Resume Section -->
     <div class="card-body container">
-        <form method="post" action="{{route('send-mail')}}">
+        <form method="post" action="https://teemak-resume.herokuapp.com/sendmail">
           @csrf
             <div class="form-group">
                 <label for="name" class="text-center"><b>Name</b></label>
