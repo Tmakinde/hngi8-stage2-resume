@@ -85,20 +85,18 @@ class HomeController extends Controller
                 'user_email'=> $user->email,
             ];
             
-            Mail::send(
+            /*Mail::send(
                     'mail-visitor',
                     ["data" => $data],
                     function ($m)use($data) {  
                     $m->from('meeulaco@meeula.com');
                     $m->to($data['email'])->subject('Hey! thanks for your message!');
-                });
+                });*/
 
             return redirect()->back()->with(["message" => "message sent to user!"]);
 
         } catch (Exception $ex) {
-            return response()->json([
-                "message" =>$ex->getMessage()
-            ]);
+            return redirect()->back()->with(["message" => "An error occured, please resend message!"]);
             
         }            
     }
