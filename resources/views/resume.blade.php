@@ -50,7 +50,7 @@
               {{$message}}
             </div>
         @endif
-        <div class="row">
+     <!--   <div class="row">
           <div class="col-lg-6">
             <h3 class="resume-title">Summary</h3>
             <div class="resume-item pb-0">
@@ -85,7 +85,7 @@ Bachelor of Science | Civil Engineering
               </p>
             </div>
           </div>
-        </div>
+        </div>-->
 
       
       <div class="row">
@@ -143,8 +143,8 @@ Bachelor of Science | Civil Engineering
       </div>
       <div class="row">
         <div class="col-lg-6">
-          <h5 class="resume-title">Ecommerce Website
-              <p><h6>I worked on an company website as a freelancer.
+          <h5 class="resume-title">Business Card Website
+              <p><h6>I worked on a business card website as a freelancer.
                 
               </h6></p></h5>
 
@@ -152,6 +152,23 @@ Bachelor of Science | Civil Engineering
             
             <div class="resume-item">
               <div><a href="meeula.com" target="_blank">Link to website</a></div>
+              
+              
+              
+              
+            </div>
+        </div>
+        <div class="col-lg-6">
+          <h5 class="resume-title">Tutorial Website
+              <p><h6>I worked on an tutorial website as a freelancer.
+              Student can chat, attempt questions, and also an admin section for admin to perform actions.
+                
+              </h6></p></h5>
+
+            
+            
+            <div class="resume-item">
+              <div><a href="tbosetutors.com" target="_blank">Link to website</a></div>
               
               
               
