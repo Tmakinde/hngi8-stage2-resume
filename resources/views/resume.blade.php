@@ -131,8 +131,9 @@ Bachelor of Science | Civil Engineering
             
             </div>
             <div class="resume-item">
-              <div><a href="klienty.co" target='_blank">Link to website</a></div>
-              <div><a href="api.klienty.co" target='_blank">Link to website API DOC</a></div>
+              <div><a href="klienty.co" target="_blank">Link to website</a></div>
+              <div><a href="api.klienty.co" target="
+              _blank">Link to website API DOC</a></div>
               
               
             </div>
