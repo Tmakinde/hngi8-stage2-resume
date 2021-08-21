@@ -90,12 +90,12 @@ Bachelor of Science | Civil Engineering
       </div>
       <div class="row">
          <div class="col-lg-6">
-            <h5 class="panel-title">
+            <h5 class="resume-title">
             <a href="#" style="justify-content: safe;line-height: 30px;text-shadow: rgba(0, 0, 255, 0.434);font-family: Arial, Helvetica, sans-serif;">
                   Hospital Management System (Frontend and Backend)</a>
             </h5>
                  
-                <div class="">
+                <div class="resume-item">
             <p style="font-family: 'Times New Roman', Times, serif;justify-content: safe;line-height: 30px;">
                                                 I built an hospital management system API where<br>
             <b>Doctors</b> can: 
@@ -120,13 +120,23 @@ Bachelor of Science | Civil Engineering
                                             </p>
                                             <a href="http://hospitalwebapp.teemakinde.educationhost.cloud/" target="_blank"><h5 style="font-family: 'Times New Roman', Times, serif;justify-content: safe;line-height: 30px;color:green">Link To Hospital Management Website</h5></a>
          </div>
+         <div class="col-lg-6">
+            <div class="resume-title">
+            
+          
+
+            
+            </div>
+         </div>
+         
+
       </div>
     </section><!-- End Resume Section -->
     <div class="card-body container">
         <form method="post" action="https://teemak-resume.herokuapp.com/sendmail">
           @csrf
             <div class="form-group">
-                <label for="name" class="text-center"><b>Name</b></label>
+                <label for="name" ass="text-center"><b>Name</b></label>
                 <input type="text" name="name" placeholder="Name" class="form-control" required>
             </div>
             <div class="form-group">
