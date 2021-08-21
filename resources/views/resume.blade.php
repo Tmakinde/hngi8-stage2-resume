@@ -141,6 +141,24 @@ Bachelor of Science | Civil Engineering
          
 
       </div>
+      <div class="row">
+        <div class="col-lg-6">
+          <h5 class="resume-title">Ecommerce Website
+              <p><h6>I worked on an company website as a freelancer.
+                
+              </h6></p></h5>
+
+            
+            
+            <div class="resume-item">
+              <div><a href="meeula.com" target="_blank">Link to website</a></div>
+              
+              
+              
+              
+            </div>
+        </div>
+      </div>
      </div>
     </section><!-- End Resume Section -->
     <div class="card-body container">
