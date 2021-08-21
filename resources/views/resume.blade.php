@@ -64,8 +64,10 @@
             </div>
             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
-              <h4>{{json_decode($user->education)->degree}}</h4>
-              <h5>{{json_decode($user->education)->date}}</h5>
+              <h4>  University of Ibadan, Oyo state 
+Bachelor of Science | Civil Engineering 
+ </h4>
+              <h5>2016 – Current</h5>
             </div>
           </div>
           <div class="col-lg-6">
