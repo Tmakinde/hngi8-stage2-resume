@@ -50,7 +50,7 @@
               {{$message}}
             </div>
         @endif
-     <!--   <div class="row">
+     <div class="row">
           <div class="col-lg-6">
             <h3 class="resume-title">Summary</h3>
             <div class="resume-item pb-0">
@@ -72,7 +72,7 @@ Bachelor of Science | Civil Engineering
           </div>
           <div class="col-lg-6">
             <h3 class="resume-title">Professional Experience</h3>
-            <div class="resume-item">
+            <!--<div class="resume-item">
               <h4>{{json_decode($user->experience)->title}}</h4>
               <h5>{{json_decode($user->experience)->date}}</h5>
               <p>
@@ -84,8 +84,8 @@ Bachelor of Science | Civil Engineering
                 </ul>
               </p>
             </div>
-          </div>
-        </div>-->
+          </div>-->
+        </div>
 
       
       <div class="row">
@@ -174,6 +174,11 @@ Bachelor of Science | Civil Engineering
               
               
             </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-6">
+          
         </div>
       </div>
      </div>
