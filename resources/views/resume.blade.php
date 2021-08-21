@@ -178,7 +178,41 @@ Bachelor of Science | Civil Engineering
       </div>
       <div class="row">
         <div class="col-lg-6">
-          
+          <h5 class="panel-title">
+                                              <a datadata-parent="#accordion" href="#collapse3" style="justify-content: safe;line-height: 30px;text-shadow: rgba(0, 0, 255, 0.434);font-family: Arial, Helvetica, sans-serif;">
+                                                School Management Systemt</a>
+                                            </h5>
+                                          </div>
+                                          
+                                            <p style="font-family: 'Times New Roman', Times, serif;justify-content: safe;line-height: 30px;">
+                                                I worked on an a school management systemt where: <br>
+                                                <b>Admin</b> can:
+                                                <ul style="font-family: 'Times New Roman', Times, serif;justify-content: safe;line-height: 30px;color:rgb(46, 139, 86)">
+                                                    <li>Super Admin can Add create, Delete, Update an Admin</li>
+                                                    <li>Login as a Admin</li>
+                                                    <li>Reset password</li>
+                                                    <li>Create Class for students e.g Primary 1</li>
+                                                    <li>Create students in a class and delete students</li>
+                                                    <li>Restore student</li>
+                                                    <li>Create subjects in a class</li>
+                                                    <li>Create student result</li>
+                                                    <li>Approve/Reject Parent admission form</li>
+                                                    <li>Create registration deadline for student registration and can alo lock student portal for a specific class</li>
+                                                </ul>
+                                                <b>Student</b> can:
+                                                <ul style="font-family: 'Times New Roman', Times, serif;justify-content: safe;line-height: 30px;color:rgb(46, 139, 86)">
+                                                    <li>Download result</li>
+                                                    <li>Register for course</li>
+                                                    <li>Reset password</li>
+                                                </ul>
+                                                <b>Parent</b> can:
+                                                <ul style="font-family: 'Times New Roman', Times, serif;justify-content: safe;line-height: 30px;color:rgb(46, 139, 86)">
+                                                    <li>View and Download their children result</li>
+                                                    <li>Submit admission form</li>
+                                                    <li>Reset password</li>
+                                                </ul>
+                                            </p>
+                                          
         </div>
       </div>
      </div>
