@@ -91,11 +91,11 @@ Bachelor of Science | Civil Engineering
       <div class="row">
          <div class="col-lg-6>
             <h5 class="panel-title">
-               <a data-toggle="collapse" data-parent="#accordion" href="#collapse2" style="justify-content: safe;line-height: 30px;text-shadow: rgba(0, 0, 255, 0.434);font-family: Arial, Helvetica, sans-serif;">
+            <a href="#" style="justify-content: safe;line-height: 30px;text-shadow: rgba(0, 0, 255, 0.434);font-family: Arial, Helvetica, sans-serif;">
                   Hospital Management System (Frontend and Backend)</a>
             </h5>
                  
-                <div id="collapse2" class="panel-collapse collapse in">
+                <div class="">
             <p style="font-family: 'Times New Roman', Times, serif;justify-content: safe;line-height: 30px;">
                                                 I built an hospital management system API where<br>
             <b>Doctors</b> can: 
