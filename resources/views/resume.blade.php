@@ -89,7 +89,7 @@ Bachelor of Science | Civil Engineering
 
       </div>
       <div class="row">
-         <div class="col-lg-6>
+         <div class="col-lg-6">
             <h5 class="panel-title">
             <a href="#" style="justify-content: safe;line-height: 30px;text-shadow: rgba(0, 0, 255, 0.434);font-family: Arial, Helvetica, sans-serif;">
                   Hospital Management System (Frontend and Backend)</a>
