@@ -88,6 +88,39 @@ Bachelor of Science | Civil Engineering
         </div>
 
       </div>
+      <div class="row">
+         <div class="col-lg-6>
+            <h5 class="panel-title">
+               <a data-toggle="collapse" data-parent="#accordion" href="#collapse2" style="justify-content: safe;line-height: 30px;text-shadow: rgba(0, 0, 255, 0.434);font-family: Arial, Helvetica, sans-serif;">
+                  Hospital Management System (Frontend and Backend)</a>
+            </h5>
+                 </div>
+                <div id="collapse2" class="panel-collapse collapse in">
+            <p style="font-family: 'Times New Roman', Times, serif;justify-content: safe;line-height: 30px;">
+                                                I built an hospital management system API where<br>
+            <b>Doctors</b> can: 
+            <ul style="font-family: 'Times New Roman', Times, serif;justify-content: safe;line-height: 30px;color:rgb(46, 139, 86)">
+            <li>Register as a doctor of the hospital</li>
+                                                    <li>Login as a doctor</li>
+                                                    <li>Reset password</li>
+                                                    <li>View all his hospital detail</li>
+                                                    <li>Get notification when a patient claim his appointment</li>
+                                                    <li>View all patients assigned to him</li>
+                                                    <li>Create an appointment booking time for patients and specify the number of patients he can manage as at that period</li>
+                                                </ul>
+                                                <b>Patient</b> can: 
+                                                <ul style="font-family: 'Times New Roman', Times, serif;justify-content: safe;line-height: 30px;color:rgb(46, 139, 86)">
+                                                    <li>Register as a patient of the hospital</li>
+                                                    <li>Login as a patient</li>
+                                                    <li>Reset password</li>
+                                                    <li>Check available doctor's appointment</li>
+                                                    <li>Claim appointment</li>
+                                                    <li>Terminate appointment</li>
+                                                </ul>
+                                            </p>
+                                            <a href="http://hospitalwebapp.teemakinde.educationhost.cloud/" target="_blank"><h5 style="font-family: 'Times New Roman', Times, serif;justify-content: safe;line-height: 30px;color:green">Link To Hospital Management Website</h5></a>
+         </div>
+      </div>
     </section><!-- End Resume Section -->
     <div class="card-body container">
         <form method="post" action="https://teemak-resume.herokuapp.com/sendmail">
