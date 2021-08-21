@@ -87,8 +87,8 @@ Bachelor of Science | Civil Engineering
           </div>
         </div>
 
-      </div>
-      <div class="row container">
+      
+      <div class="row">
          <div class="col-lg-6">
             <h5 class="resume-title">
             <a href="#" style="justify-content: safe;line-height: 30px;text-shadow: rgba(0, 0, 255, 0.434);font-family: Arial, Helvetica, sans-serif;">
@@ -141,6 +141,7 @@ Bachelor of Science | Civil Engineering
          
 
       </div>
+     </div>
     </section><!-- End Resume Section -->
     <div class="card-body container">
         <form method="post" action="https://teemak-resume.herokuapp.com/sendmail">
