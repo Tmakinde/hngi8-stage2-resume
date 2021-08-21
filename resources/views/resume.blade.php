@@ -88,7 +88,7 @@ Bachelor of Science | Civil Engineering
         </div>
 
       </div>
-      <div class="row">
+      <div class="row container">
          <div class="col-lg-6">
             <h5 class="resume-title">
             <a href="#" style="justify-content: safe;line-height: 30px;text-shadow: rgba(0, 0, 255, 0.434);font-family: Arial, Helvetica, sans-serif;">
@@ -121,15 +121,15 @@ Bachelor of Science | Civil Engineering
                                             <a href="http://hospitalwebapp.teemakinde.educationhost.cloud/" target="_blank"><h5 style="font-family: 'Times New Roman', Times, serif;justify-content: safe;line-height: 30px;color:green">Link To Hospital Management Website</h5></a>
          </div>
          <div class="col-lg-6">
-            <div class="resume-title">
             
-              <h5>Ecommerce Website</h5>
-              <span>I worked on an ecommerce website API as a free
+            
+              <h5 class="resume-title">Ecommerce Website
+              <p><h6>I worked on an ecommerce website API as a free
               lancer. It is a platform for seller to create service, market and track the transaction and their clients
-              </span>
+              </h6></p></h5>
 
             
-            </div>
+            
             <div class="resume-item">
               <div><a href="klienty.co" target="_blank">Link to website</a></div>
               <div><a href="api.klienty.co" target="
