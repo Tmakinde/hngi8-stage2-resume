@@ -214,8 +214,37 @@ Bachelor of Science | Civil Engineering
                                             </p>
                                           
         </div>
+        <div 
       </div>
      </div>
+     <aside class="skills aside section">
+                    <div class="section-inner shadow-sm rounded">
+                        <h2 class="heading"><b>Skills</b</h2>
+                        <div class="content">
+                            
+                            <div class="skillset">
+                               
+                                <div class="item">
+                                    <h3 class="level-title">Python (Algorithm and Data structure) <span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="You can use the tooltip to explain more about your skill level..."><i class="fas fa-info-circle"></i></span></h3>
+                                    
+                                </div>
+                                <div class="item">
+                                    <h3 class="level-title">Javascript, jQuery &amp; ajax, <span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="You can use the tooltip to explain more about your skill level..."><i class="fas fa-info-circle"></i></span></h3>
+                                    
+                                </div>
+                                <div class="item">
+                                    <h3 class="level-title">HTML, CSS &amp; Bootstrap <span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="You can use the tooltip to explain more about your skill level..."><i class="fas fa-info-circle"></i></span></h3>
+                                    
+                                
+                                <div class="item">
+                                    <h3 class="level-title">PHP &amp; Laravel<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="You can use the tooltip to explain more about your skill level..."><i class="fas fa-info-circle"></i></span></h3>
+                                                                   
+                                </div><!--//item-->
+                            </div>              
+                        </div><!--//content-->  
+                    </div><!--//section-inner-->                 
+                </aside><!--//section-->
+
     </section><!-- End Resume Section -->
     <div class="card-body container">
         <form method="post" action="https://teemak-resume.herokuapp.com/sendmail">
