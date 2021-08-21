@@ -123,9 +123,18 @@ Bachelor of Science | Civil Engineering
          <div class="col-lg-6">
             <div class="resume-title">
             
-          
+              <h5>Ecommerce Website</h5>
+              <span>I worked on an ecommerce website API as a free
+              lancer. It is a platform for seller to create service, market and track the transaction and their clients
+              </span>
 
             
+            </div>
+            <div class="resume-item">
+              <div><a href="klienty.co" target='_blank">Link to website</a></div>
+              <div><a href="api.klienty.co" target='_blank">Link to website API DOC</a></div>
+              
+              
             </div>
          </div>
          
