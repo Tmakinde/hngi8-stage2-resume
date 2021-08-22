@@ -59,6 +59,7 @@
               <ul>
                 <li>{{json_decode($user->description)->phone_number}}</li>
                 <li>{{$user->email}}</li>
+                <li><a href="https://github.com/Tmakinde">Github Profile</a></li>
               </ul>
               </p>
             </div>
