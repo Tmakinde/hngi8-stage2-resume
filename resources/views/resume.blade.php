@@ -91,7 +91,7 @@ Bachelor of Science | Civil Engineering
       <div class="row">
          <div class="col-lg-6">
             <h5 class="resume-title">
-            <a href="#" style="justify-content: safe;line-height: 30px;text-shadow: rgba(0, 0, 255, 0.434);font-family: Arial, Helvetica, sans-serif;">
+            <a href="https://github.com/Tmakinde/hospital-management-system" style="justify-content: safe;line-height: 30px;text-shadow: rgba(0, 0, 255, 0.434);font-family: Arial, Helvetica, sans-serif;">
                   Hospital Management System (Frontend and Backend)</a>
             </h5>
                  
@@ -118,7 +118,7 @@ Bachelor of Science | Civil Engineering
                                                     <li>Terminate appointment</li>
                                                 </ul>
                                             </p>
-                                            <a href="http://hospitalwebapp.teemakinde.educationhost.cloud/" target="_blank"><h5 style="font-family: 'Times New Roman', Times, serif;justify-content: safe;line-height: 30px;color:green">Link To Hospital Management Website</h5></a>
+                                            <a href="https://github.com/Tmakinde/hospital-management-syste" target="_blank"><h5 style="font-family: 'Times New Roman', Times, serif;justify-content: safe;line-height: 30px;color:green">Link To Hospital Management Website</h5></a>
          </div>
          <div class="col-lg-6">
             
