@@ -151,7 +151,7 @@ Bachelor of Science | Civil Engineering
             
             
             <div class="resume-item">
-              <div><a href="meeula.com" target="_blank">Link to website</a></div>
+              <div><a href="https://meeula.com" target="_blank">Link to website</a></div>
               
               
               
@@ -168,7 +168,7 @@ Bachelor of Science | Civil Engineering
             
             
             <div class="resume-item">
-              <div><a href="tbosetutors.com" target="_blank">Link to website</a></div>
+              <div><a href="https://tbosetutors.com" target="_blank">Link to website</a></div>
               
               
               
@@ -225,7 +225,7 @@ Bachelor of Science | Civil Engineering
                             <div class="skillset">
                                
                                 <div class="item">
-                                    <h3 class="level-title">Python (Algorithm and Data structure) <span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="You can use the tooltip to explain more about your skill level..."><i class="fas fa-info-circle"></i></span></h3>
+                                    <h3 class="level-title">Python <span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="You can use the tooltip to explain more about your skill level..."><i class="fas fa-info-circle"></i></span></h3>
                                     
                                 </div>
                                 <div class="item">
