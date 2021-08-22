@@ -212,9 +212,9 @@ Bachelor of Science | Civil Engineering
                                                     <li>Reset password</li>
                                                 </ul>
                                             </p>
-                                          
+                                          <div><a href="https://github.com/Tmakinde/school-mini-webapp">Link to github repo</a></div>
         </div>
-        <div 
+         
       </div>
      </div>
      <aside class="skills aside section">
